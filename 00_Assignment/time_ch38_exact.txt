@@ -1,0 +1,5 @@
+JobID           JobName    Elapsed     MaxRSS      State 
+------------ ---------- ---------- ---------- ---------- 
+37357977         submit   00:08:56             COMPLETED 
+37357977.ba+      batch   00:08:56   3242360K  COMPLETED 
+37357977.ex+     extern   00:08:56       256K  COMPLETED 

@@ -1,0 +1,85 @@
+Processing genome: GCF_009914755.1_T2T-CHM13v2.0_genomic.fna.gz
+Using AluY sequence from: AluY.fa
+Searching in NC_060925.1...
+Match at NC_060925.1: 143946938-143947249
+Total matches in NC_060925.1: 1
+
+Searching in NC_060926.1...
+Match at NC_060926.1: 186833276-186833587
+Match at NC_060926.1: 186833277-186833588
+Match at NC_060926.1: 186833278-186833589
+Total matches in NC_060926.1: 3
+
+Searching in NC_060927.1...
+Total matches in NC_060927.1: 0
+
+Searching in NC_060928.1...
+Total matches in NC_060928.1: 0
+
+Searching in NC_060929.1...
+Total matches in NC_060929.1: 0
+
+Searching in NC_060930.1...
+Total matches in NC_060930.1: 0
+
+Searching in NC_060931.1...
+Match at NC_060931.1: 39966040-39966351
+Match at NC_060931.1: 39966041-39966352
+Match at NC_060931.1: 39966042-39966353
+Total matches in NC_060931.1: 3
+
+Searching in NC_060932.1...
+Match at NC_060932.1: 101916771-101917082
+Total matches in NC_060932.1: 1
+
+Searching in NC_060933.1...
+Total matches in NC_060933.1: 0
+
+Searching in NC_060934.1...
+Total matches in NC_060934.1: 0
+
+Searching in NC_060935.1...
+Total matches in NC_060935.1: 0
+
+Searching in NC_060936.1...
+Total matches in NC_060936.1: 0
+
+Searching in NC_060937.1...
+Match at NC_060937.1: 66839102-66839413
+Total matches in NC_060937.1: 1
+
+Searching in NC_060938.1...
+Total matches in NC_060938.1: 0
+
+Searching in NC_060939.1...
+Total matches in NC_060939.1: 0
+
+Searching in NC_060940.1...
+Total matches in NC_060940.1: 0
+
+Searching in NC_060941.1...
+Match at NC_060941.1: 2142369-2142680
+Total matches in NC_060941.1: 1
+
+Searching in NC_060942.1...
+Total matches in NC_060942.1: 0
+
+Searching in NC_060943.1...
+Total matches in NC_060943.1: 0
+
+Searching in NC_060944.1...
+Total matches in NC_060944.1: 0
+
+Searching in NC_060945.1...
+Total matches in NC_060945.1: 0
+
+Searching in NC_060946.1...
+Total matches in NC_060946.1: 0
+
+Searching in NC_060947.1...
+Total matches in NC_060947.1: 0
+
+Searching in NC_060948.1...
+Total matches in NC_060948.1: 0
+
+Total AluY matches in genome: 10
