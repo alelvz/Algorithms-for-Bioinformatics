@@ -1,0 +1,48 @@
+Results for simulated_reads_no_errors_10k_R2.fastq.gz:
+GCF_000005845.2_ASM584v2_genomic.fna.gz has 87 reads with k-mer matches.
+Total k-mer matches for GCF_000005845.2_ASM584v2_genomic.fna.gz: 1179
+GCF_000013425.1_ASM1342v1_genomic.fna.gz has 27 reads with k-mer matches.
+Total k-mer matches for GCF_000013425.1_ASM1342v1_genomic.fna.gz: 211
+GCF_000009045.1_ASM904v1_genomic.fna.gz has 17 reads with k-mer matches.
+Total k-mer matches for GCF_000009045.1_ASM904v1_genomic.fna.gz: 122
+GCF_000195955.2_ASM19595v2_genomic.fna.gz has 11 reads with k-mer matches.
+Total k-mer matches for GCF_000195955.2_ASM19595v2_genomic.fna.gz: 127
+GCF_000006765.1_ASM676v1_genomic.fna.gz has 25 reads with k-mer matches.
+Total k-mer matches for GCF_000006765.1_ASM676v1_genomic.fna.gz: 165
+
+Results for simulated_reads_miseq_10k_R2.fastq.gz:
+GCF_000005845.2_ASM584v2_genomic.fna.gz has 92 reads with k-mer matches.
+Total k-mer matches for GCF_000005845.2_ASM584v2_genomic.fna.gz: 1952
+GCF_000006765.1_ASM676v1_genomic.fna.gz has 30 reads with k-mer matches.
+Total k-mer matches for GCF_000006765.1_ASM676v1_genomic.fna.gz: 205
+GCF_000013425.1_ASM1342v1_genomic.fna.gz has 37 reads with k-mer matches.
+Total k-mer matches for GCF_000013425.1_ASM1342v1_genomic.fna.gz: 724
+GCF_000009045.1_ASM904v1_genomic.fna.gz has 19 reads with k-mer matches.
+Total k-mer matches for GCF_000009045.1_ASM904v1_genomic.fna.gz: 264
+GCF_000195955.2_ASM19595v2_genomic.fna.gz has 11 reads with k-mer matches.
+Total k-mer matches for GCF_000195955.2_ASM19595v2_genomic.fna.gz: 225
+
+Results for simulated_reads_miseq_10k_R1.fastq.gz:
+GCF_000005845.2_ASM584v2_genomic.fna.gz has 3003 reads with k-mer matches.
+Total k-mer matches for GCF_000005845.2_ASM584v2_genomic.fna.gz: 132745
+GCF_000006765.1_ASM676v1_genomic.fna.gz has 522 reads with k-mer matches.
+Total k-mer matches for GCF_000006765.1_ASM676v1_genomic.fna.gz: 21460
+GCF_000009045.1_ASM904v1_genomic.fna.gz has 509 reads with k-mer matches.
+Total k-mer matches for GCF_000009045.1_ASM904v1_genomic.fna.gz: 22609
+GCF_000195955.2_ASM19595v2_genomic.fna.gz has 512 reads with k-mer matches.
+Total k-mer matches for GCF_000195955.2_ASM19595v2_genomic.fna.gz: 21089
+GCF_000013425.1_ASM1342v1_genomic.fna.gz has 514 reads with k-mer matches.
+Total k-mer matches for GCF_000013425.1_ASM1342v1_genomic.fna.gz: 22626
+
+Results for simulated_reads_no_errors_10k_R1.fastq.gz:
+GCF_000005845.2_ASM584v2_genomic.fna.gz has 3002 reads with k-mer matches.
+Total k-mer matches for GCF_000005845.2_ASM584v2_genomic.fna.gz: 55686
+GCF_000006765.1_ASM676v1_genomic.fna.gz has 516 reads with k-mer matches.
+Total k-mer matches for GCF_000006765.1_ASM676v1_genomic.fna.gz: 8988
+GCF_000195955.2_ASM19595v2_genomic.fna.gz has 504 reads with k-mer matches.
+Total k-mer matches for GCF_000195955.2_ASM19595v2_genomic.fna.gz: 9002
+GCF_000013425.1_ASM1342v1_genomic.fna.gz has 509 reads with k-mer matches.
+Total k-mer matches for GCF_000013425.1_ASM1342v1_genomic.fna.gz: 9312
+GCF_000009045.1_ASM904v1_genomic.fna.gz has 507 reads with k-mer matches.
+Total k-mer matches for GCF_000009045.1_ASM904v1_genomic.fna.gz: 9585
+
