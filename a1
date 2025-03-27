@@ -1,0 +1,16 @@
+CS249 Assignment Report
+Task 1: Metagenome Classification by String Matching
+
+In this task, reference genomes act as the text and sequencing reads are the patterns being searched for. Using string matching, we classify reads by comparing them against the known reference sequences.
+Reference and Read Sizes
+Species	Genome Size (bp)
+E. coli K-12 MG1655	4,641,652
+B. subtilis 168	4,215,606
+P. aeruginosa PAO1	6,264,404
+S. aureus NCTC 8325	2,821,361
+M. tuberculosis H37Rv	4,411,532
+Read File	Total bp
+simulated_reads_miseq_10k_R1.fastq.gz	3,114,900
+simulated_reads_miseq_10k_R2.fastq.gz	3,114,900
+simulated_reads_no_errors_10k_R1.fastq.gz	1,354,900
+simulated_reads_no_errors_10k_R2.fastq.gz	1,354,900
