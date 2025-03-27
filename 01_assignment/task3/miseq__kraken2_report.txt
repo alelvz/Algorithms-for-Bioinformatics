@@ -1,0 +1,41 @@
+  0.02	1	1	U	0	unclassified
+ 99.98	4999	0		1	root
+ 99.98	4999	0	1	131567	  cellular organisms
+ 99.98	4999	0	2	2	    Bacteria
+ 70.00	3500	0	K	3379134	      Pseudomonadati
+ 70.00	3500	0	P	1224	        Pseudomonadota
+ 70.00	3500	0	C	1236	          Gammaproteobacteria
+ 60.00	3000	0	O	91347	            Enterobacterales
+ 60.00	3000	0	F	543	              Enterobacteriaceae
+ 60.00	3000	0	G	561	                Escherichia
+ 60.00	3000	0	S	562	                  Escherichia coli
+ 60.00	3000	0	S1	83333	                    Escherichia coli K-12
+ 60.00	3000	3000	S2	511145	                      Escherichia coli str. K-12 substr. MG1655
+ 10.00	500	0	O	72274	            Pseudomonadales
+ 10.00	500	0	F	135621	              Pseudomonadaceae
+ 10.00	500	0	G	286	                Pseudomonas
+ 10.00	500	0	G1	136841	                  Pseudomonas aeruginosa group
+ 10.00	500	0	S	287	                    Pseudomonas aeruginosa
+ 10.00	500	500	S1	208964	                      Pseudomonas aeruginosa PAO1
+ 29.98	1499	0	K	1783272	      Bacillati
+ 20.00	1000	0	P	1239	        Bacillota
+ 20.00	1000	0	C	91061	          Bacilli
+ 20.00	1000	0	O	1385	            Bacillales
+ 10.00	500	0	F	90964	              Staphylococcaceae
+ 10.00	500	0	G	1279	                Staphylococcus
+ 10.00	500	0	S	1280	                  Staphylococcus aureus
+ 10.00	500	500	S1	93061	                    Staphylococcus aureus subsp. aureus NCTC 8325
+ 10.00	500	0	F	186817	              Bacillaceae
+ 10.00	500	0	G	1386	                Bacillus
+ 10.00	500	0	G1	653685	                  Bacillus subtilis group
+ 10.00	500	0	S	1423	                    Bacillus subtilis
+ 10.00	500	0	S1	135461	                      Bacillus subtilis subsp. subtilis
+ 10.00	500	500	S2	224308	                        Bacillus subtilis subsp. subtilis str. 168
+  9.98	499	0	P	201174	        Actinomycetota
+  9.98	499	0	C	1760	          Actinomycetes
+  9.98	499	0	O	85007	            Mycobacteriales
+  9.98	499	0	F	1762	              Mycobacteriaceae
+  9.98	499	0	G	1763	                Mycobacterium
+  9.98	499	0	G1	77643	                  Mycobacterium tuberculosis complex
+  9.98	499	0	S	1773	                    Mycobacterium tuberculosis
+  9.98	499	499	S1	83332	                      Mycobacterium tuberculosis H37Rv
