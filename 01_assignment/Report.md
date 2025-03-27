@@ -185,7 +185,7 @@ To improve memory efficiency, we implemented a minimizer-based indexing scheme (
 | Full k-mer Index   | 4448.64           |
 | Minimizer Index    | 975.05            |
 
-![Reads Comparison](images/reads_kmer.png)
+![Reads Comparison](../images/reads_kmer.png)
 
 
 > **Memory Reduced by ~78%**  
