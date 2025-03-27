@@ -1,0 +1,96 @@
+
+
+Building a new DB, current time: 03/25/2025 16:31:51
+New DB name:   /ibex/project/c2014/alelopezv/2502_Algorithms/01_assignment/blast/ecoli_db
+New DB title:  GCF_000005845.2_ASM584v2_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.0952389 seconds.
+
+
+
+
+Building a new DB, current time: 03/25/2025 16:31:52
+New DB name:   /ibex/project/c2014/alelopezv/2502_Algorithms/01_assignment/blast/paeruginosa_db
+New DB title:  GCF_000006765.1_ASM676v1_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.278864 seconds.
+
+
+
+
+Building a new DB, current time: 03/25/2025 16:31:54
+New DB name:   /ibex/project/c2014/alelopezv/2502_Algorithms/01_assignment/blast/bsubtilis_db
+New DB title:  GCF_000009045.1_ASM904v1_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.0435331 seconds.
+
+
+
+
+Building a new DB, current time: 03/25/2025 16:31:56
+New DB name:   /ibex/project/c2014/alelopezv/2502_Algorithms/01_assignment/blast/saureus_db
+New DB title:  GCF_000013425.1_ASM1342v1_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.165815 seconds.
+
+
+
+
+Building a new DB, current time: 03/25/2025 16:31:59
+New DB name:   /ibex/project/c2014/alelopezv/2502_Algorithms/01_assignment/blast/mtuberculosis_db
+New DB title:  GCF_000195955.2_ASM19595v2_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.0536361 seconds.
+
+
+Aligning reads from miseq_10k_R1 to ecoli
+BLASTn alignment complete for ecoli with miseq_10k_R1
+Aligning reads from miseq_10k_R2 to ecoli
+BLASTn alignment complete for ecoli with miseq_10k_R2
+Aligning reads from no_errors_10k_R1 to ecoli
+BLASTn alignment complete for ecoli with no_errors_10k_R1
+Aligning reads from no_errors_10k_R2 to ecoli
+BLASTn alignment complete for ecoli with no_errors_10k_R2
+Aligning reads from miseq_10k_R1 to paeruginosa
+BLASTn alignment complete for paeruginosa with miseq_10k_R1
+Aligning reads from miseq_10k_R2 to paeruginosa
+BLASTn alignment complete for paeruginosa with miseq_10k_R2
+Aligning reads from no_errors_10k_R1 to paeruginosa
+BLASTn alignment complete for paeruginosa with no_errors_10k_R1
+Aligning reads from no_errors_10k_R2 to paeruginosa
+BLASTn alignment complete for paeruginosa with no_errors_10k_R2
+Aligning reads from miseq_10k_R1 to bsubtilis
+BLASTn alignment complete for bsubtilis with miseq_10k_R1
+Aligning reads from miseq_10k_R2 to bsubtilis
+BLASTn alignment complete for bsubtilis with miseq_10k_R2
+Aligning reads from no_errors_10k_R1 to bsubtilis
+BLASTn alignment complete for bsubtilis with no_errors_10k_R1
+Aligning reads from no_errors_10k_R2 to bsubtilis
+BLASTn alignment complete for bsubtilis with no_errors_10k_R2
+Aligning reads from miseq_10k_R1 to saureus
+BLASTn alignment complete for saureus with miseq_10k_R1
+Aligning reads from miseq_10k_R2 to saureus
+BLASTn alignment complete for saureus with miseq_10k_R2
+Aligning reads from no_errors_10k_R1 to saureus
+BLASTn alignment complete for saureus with no_errors_10k_R1
+Aligning reads from no_errors_10k_R2 to saureus
+BLASTn alignment complete for saureus with no_errors_10k_R2
+Aligning reads from miseq_10k_R1 to mtuberculosis
+BLASTn alignment complete for mtuberculosis with miseq_10k_R1
+Aligning reads from miseq_10k_R2 to mtuberculosis
+BLASTn alignment complete for mtuberculosis with miseq_10k_R2
+Aligning reads from no_errors_10k_R1 to mtuberculosis
+BLASTn alignment complete for mtuberculosis with no_errors_10k_R1
+Aligning reads from no_errors_10k_R2 to mtuberculosis
+BLASTn alignment complete for mtuberculosis with no_errors_10k_R2
+All BLASTn alignments completed.

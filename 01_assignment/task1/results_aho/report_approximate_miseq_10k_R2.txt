@@ -1,0 +1,8 @@
+Reads matching E_coli: 137
+Reads matching P_aeruginosa: 68
+Reads matching B_subtilis: 35
+Reads matching S_aureus: 52
+Reads matching M_tuberculosis: 25
+Execution time: 339.48 seconds
+Memory usage: 27491.49 MB
+
