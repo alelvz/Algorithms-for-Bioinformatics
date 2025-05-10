@@ -82,7 +82,7 @@ Bandage image reads_b_dbg_k40.gfa reads_b_dbg_k40.png
 
 Below is the resulting assembly graph for `reads_b.fastq`:
 
-![reads\_b\_dbg\_k40.png](file-RWP9sSDeUkUKTb6bjz2rSn)
+![results/out_dgb/reads_b_dbg_k40.png](file-RWP9sSDeUkUKTb6bjz2rSn)
 
 #### 🔍 Interpretation
 
