@@ -1,0 +1,55 @@
+Assembly	no_error_reads_hiseq_5k_olc
+# contigs (>= 0 bp)	214
+# contigs (>= 1000 bp)	17
+# contigs (>= 5000 bp)	1
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	113943
+Total length (>= 1000 bp)	46500
+Total length (>= 5000 bp)	8700
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	93
+Largest contig	8700
+Total length	85212
+Reference length	30119
+GC (%)	41.28
+Reference GC (%)	41.24
+N50	1234
+NG50	4528
+N90	355
+NG90	3063
+auN	2467.8
+auNG	6981.9
+L50	14
+LG50	3
+L90	68
+LG90	6
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	45 + 0 part
+Unaligned length	16898
+Genome fraction (%)	97.812
+Duplication ratio	2.319
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.00
+# indels per 100 kbp	0.00
+Largest alignment	8700
+Total aligned length	68314
+NA50	1234
+NGA50	4528
+NA90	-
+NGA90	3063
+auNA	2391.4
+auNGA	6765.7
+LA50	14
+LGA50	3
+LA90	-
+LGA90	6

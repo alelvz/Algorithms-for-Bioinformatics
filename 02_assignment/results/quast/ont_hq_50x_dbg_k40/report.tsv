@@ -1,0 +1,55 @@
+Assembly	ont_hq_50x_dbg_k40
+# contigs (>= 0 bp)	475
+# contigs (>= 1000 bp)	7
+# contigs (>= 5000 bp)	5
+# contigs (>= 10000 bp)	3
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	78295
+Total length (>= 1000 bp)	55090
+Total length (>= 5000 bp)	51737
+Total length (>= 10000 bp)	37995
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	10
+Largest contig	14599
+Total length	56670
+Reference length	30119
+GC (%)	40.84
+Reference GC (%)	41.24
+N50	11109
+NG50	12287
+N90	5721
+NG90	11109
+auN	10433.0
+auNG	19630.1
+L50	3
+LG50	2
+L90	5
+LG90	3
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	2 + 0 part
+Unaligned length	824
+Genome fraction (%)	91.587
+Duplication ratio	1.974
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.00
+# indels per 100 kbp	119.38
+Largest alignment	14170
+Total aligned length	54450
+NA50	10739
+NGA50	11984
+NA90	1921
+NGA90	10739
+auNA	9871.5
+auNGA	18573.6
+LA50	3
+LGA50	2
+LA90	6
+LGA90	3

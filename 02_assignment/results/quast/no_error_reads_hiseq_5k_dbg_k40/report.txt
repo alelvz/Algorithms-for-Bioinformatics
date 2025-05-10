@@ -1,0 +1,57 @@
+All statistics are based on contigs of size >= 300 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     no_error_reads_hiseq_5k_dbg_k40
+# contigs (>= 0 bp)          42                             
+# contigs (>= 1000 bp)       8                              
+# contigs (>= 5000 bp)       1                              
+# contigs (>= 10000 bp)      0                              
+# contigs (>= 25000 bp)      0                              
+# contigs (>= 50000 bp)      0                              
+Total length (>= 0 bp)       30934                          
+Total length (>= 1000 bp)    26330                          
+Total length (>= 5000 bp)    8371                           
+Total length (>= 10000 bp)   0                              
+Total length (>= 25000 bp)   0                              
+Total length (>= 50000 bp)   0                              
+# contigs                    12                             
+Largest contig               8371                           
+Total length                 28361                          
+Reference length             30119                          
+GC (%)                       41.35                          
+Reference GC (%)             41.24                          
+N50                          4173                           
+NG50                         4173                           
+N90                          1056                           
+NG90                         863                            
+auN                          4623.8                         
+auNG                         4354.0                         
+L50                          3                              
+LG50                         3                              
+L90                          8                              
+LG90                         9                              
+# misassemblies              0                              
+# misassembled contigs       0                              
+Misassembled contigs length  0                              
+# local misassemblies        0                              
+# scaffold gap ext. mis.     0                              
+# scaffold gap loc. mis.     0                              
+# unaligned mis. contigs     0                              
+# unaligned contigs          3 + 0 part                     
+Unaligned length             1168                           
+Genome fraction (%)          89.907                         
+Duplication ratio            1.004                          
+# N's per 100 kbp            0.00                           
+# mismatches per 100 kbp     0.00                           
+# indels per 100 kbp         0.00                           
+Largest alignment            8371                           
+Total aligned length         27193                          
+NA50                         4173                           
+NGA50                        4173                           
+NA90                         1056                           
+NGA90                        863                            
+auNA                         4607.7                         
+auNGA                        4338.7                         
+LA50                         3                              
+LGA50                        3                              
+LA90                         8                              
+LGA90                        9                              

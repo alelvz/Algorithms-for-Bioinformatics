@@ -1,0 +1,55 @@
+Assembly	flye_error
+# contigs (>= 0 bp)	1
+# contigs (>= 1000 bp)	1
+# contigs (>= 5000 bp)	1
+# contigs (>= 10000 bp)	1
+# contigs (>= 25000 bp)	1
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	29456
+Total length (>= 1000 bp)	29456
+Total length (>= 5000 bp)	29456
+Total length (>= 10000 bp)	29456
+Total length (>= 25000 bp)	29456
+Total length (>= 50000 bp)	0
+# contigs	1
+Largest contig	29456
+Total length	29456
+Reference length	30119
+GC (%)	41.20
+Reference GC (%)	41.24
+N50	29456
+NG50	29456
+N90	29456
+NG90	29456
+auN	29456.0
+auNG	28807.6
+L50	1
+LG50	1
+L90	1
+LG90	1
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	97.683
+Duplication ratio	1.001
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	13.58
+# indels per 100 kbp	71.32
+Largest alignment	29446
+Total aligned length	29446
+NA50	29446
+NGA50	29446
+NA90	29446
+NGA90	29446
+auNA	29436.0
+auNGA	28788.0
+LA50	1
+LGA50	1
+LA90	1
+LGA90	1

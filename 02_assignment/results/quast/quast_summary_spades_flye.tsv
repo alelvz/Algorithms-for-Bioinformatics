@@ -1,0 +1,5 @@
+Assembly	Total length	# contigs	GC (%)	N50	N90	L50	Largest contig	Genome fraction (%)	Duplication ratio	# misassemblies	# mismatches per 100 kbp	# indels per 100 kbp
+spades_noerror	29482	1	41.26	29482	29482	1	29482	97.885	1.000	0	0.00	0.00
+spades_error	29482	1	41.26	29482	29482	1	29482	97.885	1.000	0	0.00	0.00
+flye_noerror	29430	1	41.17	29430	29430	1	29430	97.712	1.000	0	0.00	0.00
+flye_error	29456	1	41.20	29456	29456	1	29456	97.683	1.001	0	13.58	71.32

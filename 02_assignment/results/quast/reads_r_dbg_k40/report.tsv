@@ -1,0 +1,55 @@
+Assembly	reads_r_dbg_k40
+# contigs (>= 0 bp)	5
+# contigs (>= 1000 bp)	0
+# contigs (>= 5000 bp)	0
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	1188
+Total length (>= 1000 bp)	0
+Total length (>= 5000 bp)	0
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	1
+Largest contig	946
+Total length	946
+Reference length	1040
+GC (%)	51.16
+Reference GC (%)	51.25
+N50	946
+NG50	946
+N90	946
+NG90	946
+auN	946.0
+auNG	860.5
+L50	1
+LG50	1
+L90	1
+LG90	1
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	91.058
+Duplication ratio	0.999
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.00
+# indels per 100 kbp	105.71
+Largest alignment	946
+Total aligned length	946
+NA50	946
+NGA50	946
+NA90	946
+NGA90	946
+auNA	946.0
+auNGA	860.5
+LA50	1
+LGA50	1
+LA90	1
+LGA90	1

@@ -1,0 +1,55 @@
+Assembly	reads_r_dbg_k35
+# contigs (>= 0 bp)	4
+# contigs (>= 1000 bp)	0
+# contigs (>= 5000 bp)	0
+# contigs (>= 10000 bp)	0
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 0 bp)	1132
+Total length (>= 1000 bp)	0
+Total length (>= 5000 bp)	0
+Total length (>= 10000 bp)	0
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	1
+Largest contig	880
+Total length	880
+Reference length	1040
+GC (%)	51.82
+Reference GC (%)	51.25
+N50	880
+NG50	880
+N90	880
+NG90	-
+auN	880.0
+auNG	744.6
+L50	1
+LG50	1
+L90	1
+LG90	-
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	84.615
+Duplication ratio	1.000
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	0.00
+# indels per 100 kbp	0.00
+Largest alignment	880
+Total aligned length	880
+NA50	880
+NGA50	880
+NA90	880
+NGA90	-
+auNA	880.0
+auNGA	744.6
+LA50	1
+LGA50	1
+LA90	1
+LGA90	-
