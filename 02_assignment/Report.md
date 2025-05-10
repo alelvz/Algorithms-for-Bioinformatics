@@ -205,5 +205,7 @@ The Hifiasm-based assembly yielded a highly contiguous and complete genome, as r
 
 
 hifiasm results: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/hifiasm`
+
 verkko results: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/scripts/lizard_verkko_run`
+
 evaluation: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/hifiasm_evaluation`
