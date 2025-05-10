@@ -201,3 +201,9 @@ The Hifiasm-based assembly yielded a highly contiguous and complete genome, as r
 ### 3️⃣ K-mer distribution and QV score
 
 ### 4️⃣ Mis-assemblies
+
+
+
+hifiasm results: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/hifiasm`
+verkko results: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/scripts/lizard_verkko_run`
+evaluation: `/ibex/scratch/projects/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/hifiasm_evaluation`
