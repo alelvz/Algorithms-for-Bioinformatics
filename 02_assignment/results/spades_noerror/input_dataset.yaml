@@ -1,0 +1,4 @@
+- "number": !!int "1"
+  "single reads":
+  - "/ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/data/synthetic_dataset/reads/no_error_reads_hiseq_5k.fastq"
+  "type": "single"

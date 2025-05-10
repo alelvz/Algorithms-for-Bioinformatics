@@ -1,0 +1,32 @@
+Command line: /ibex/sw/rl9c/spades/3.15.5/rl9_gnu12.2.0/spades/bin/spades.py	-s	/ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/data/synthetic_dataset/reads/no_error_reads_hiseq_5k.fastq	-o	/ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/spades_noerror	-t	16	-m	32	--only-assembler	
+
+System information:
+  SPAdes version: 3.15.5
+  Python version: 3.11.4
+  OS: Linux-5.14.0-427.20.1.el9_4.0.1.x86_64-x86_64-with-glibc2.34
+
+Output dir: /ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/spades_noerror
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/data/synthetic_dataset/reads/no_error_reads_hiseq_5k.fastq']
+      merged reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /ibex/project/c2014/alelopezv/2502_Algorithms/Algorithms-for-Bioinformatics/02_assignment/results/spades_noerror/tmp
+  Threads: 16
+  Memory limit (in Gb): 32
+
