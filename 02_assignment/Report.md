@@ -109,6 +109,14 @@ The QUAST evaluation metrics revealed notable differences. The assembly with k =
 
 Graph visualization using Bandage highlighted further contrasts. The k = 35 graph exhibited a more tangled structure, including a small loop, likely due to ambiguous overlaps or repeat regions that were not fully resolved. This complexity stems from the lower k-mer size, which increases overlap sensitivity but also introduces more connections in the graph. On the other hand, the k = 45 assembly graph was clean and linear, indicating higher specificity in overlaps and a more streamlined assembly graph.
 
+Assembly graph for `reads_r.fastq` with k-mer size of 35:
+
+![DBG assembly graph (k=40)](results/out_dbg/reads_r_dbg_k35.png)
+
+Assembly graph for `reads_r.fastq` with k-mer size of 45:
+
+![DBG assembly graph (k=40)](results/out_dbg/reads_r_dbg_k45.png)
+
 The observed differences can be explained by the trade-off between k-mer size and assembly performance. Smaller k-mers (e.g., k = 35) improve sensitivity and are more forgiving in cases of low coverage, but they can introduce ambiguities in repetitive regions. Larger k-mers (e.g., k = 45) provide greater specificity and cleaner graph topologies, but they require higher coverage and may miss regions with insufficient overlap support.
 
 ### 3️⃣ Comparative Assembly of MERS Virus Reads
